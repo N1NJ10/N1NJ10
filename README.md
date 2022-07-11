@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fady</h1>
 <h3 align="center">A junior in penetration testing</h3>
-
+<img src="https://media.giphy.com/media/03oMQYhL4QZiS5jITq/giphy.gif" align="center" alt="Snow" width="1000">
 
 - 🔭 I’m currently working on **self learnig**
 
@@ -9,6 +9,10 @@
 - 👯 I’m looking to collaborate on **linux , python , ccna , mcsa**
 
 - 📫 How to reach me **fmoheb6@gmail.com**
+
+<img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="500" height="3">
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
