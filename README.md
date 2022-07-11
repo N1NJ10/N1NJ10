@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fady</h1>
+
+<img src="https://3.bp.blogspot.com/-_PqHqWYxrTw/UMvwIv1lzqI/AAAAAAAARQ8/J3o7CVrX70I/s1600/pQT0l.gif" align="center" alt="Snow" width="1000">
 <h3 align="center">A junior in penetration testing</h3>
-<img src="https://media.giphy.com/media/03oMQYhL4QZiS5jITq/giphy.gif" align="center" alt="Snow" width="1000">
+<img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="500" height="3">
+
 
 - 🔭 I’m currently working on **self learnig**
 
