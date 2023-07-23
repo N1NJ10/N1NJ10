@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fady</h1>
 
-<img src="https://rare-gallery.com/uploads/posts/356218-4k-wallpaper.jpg" align="center" alt="Snow">
+<img src="https://rare-gallery.com/uploads/posts/356218-4k-wallpaper.jpg" align="center">
 <h3 align="center">Pentester</h3>
 <img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="500" height="3">
 
