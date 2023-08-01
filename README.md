@@ -1,13 +1,9 @@
 <h1 align="center">Welcome N1NJ10 ⚡️ </h1>
 
 <img src="https://images.hdqwalls.com/download/anime-scifi-ninja-4k-sy-1366x768.jpg" align="center">
-<h3 align="center">Pentester</h3>
+<h3 align="center">Hacker</h3>
 <img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="500" height="3">
 
-
-- 🔭 I’m currently working on **self learnig**
-
-- 🌱 I’m currently learning **Network , linux , web**
 
 <img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="500" height="3">
 
