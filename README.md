@@ -5,6 +5,9 @@
 
 <img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="500" height="3">
 
+- 🔭 I’m currently working on **self learnig**
+- 🌱 I’m currently learning **Network , linux , web**
+
 <img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="500" height="3">
 
 
