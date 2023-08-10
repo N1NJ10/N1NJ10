@@ -18,7 +18,7 @@
 
 └─>cat Skills&Certs.txt
 
-**🛠️ Skills : Penetration Testing🔍| Red Teaming🔴 | Network Security🔒 | Network Engineer🌐**
+ **🛠️ Skills : Penetration Testing🔍| Red Teaming🔴 | Network Security🔒 | Network Engineer🌐**
 
 **🎖️Certs : ECPPTV2 | PEH | SEC+ | Cyberops | CEHV12 | CCNAV7 | F5LTM** 
 
