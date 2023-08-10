@@ -6,7 +6,9 @@
 <img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="500" height="3">
 
 ┌──( 🥷root㉿N1NJ10 )-[~]
+|
 └─>cat About_Me.txt
+
 📋 Profile : I'm Fady Moheb but you can called me N1NJ10 🕵️‍♂️, a fervent Cyber Security enthusiast specializing in Ethical Hacking and Red Teaming. Interested in the security/Network stuff , A content creator in the N1NJ10 channel 
 
 <img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="500" height="3">
