@@ -20,7 +20,7 @@
 
  **🛠️ Skills : Penetration Testing🔍| Red Teaming🔴 | Network Security🔒 | Network Engineer🌐**
 
-**🎖️Certs : ECPPTV2 | PEH | SEC+ | Cyberops | CEHV12 | CCNAV7 | F5LTM | <a href="https://www.linkedin.com/in/fadymoheb/details/certifications//">More</a>** 
+**🎖️Certs : ECPPTV2 | PEH | SEC+ | Cyberops | CEHV12 | CCNAV7 | F5LTM | EJPTV2 <a href="https://www.linkedin.com/in/fadymoheb/details/certifications//">More</a>** 
 
 <img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="500" height="3">
 <h3 align="left">Connect with me:</h3>
