@@ -10,7 +10,7 @@
 
 **My name is Fady but you can call me N1NJ10, Just one who can play with the 7 layers** 
 
-**You can take a look at my blog** <a href="https://n1nj10.gitbook.io/n1nj10/">here</a>
+**You can take a look at my blog** <a href="https://n1nj10.github.io/">here</a>
 
 
 <img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="500" height="3">
